@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1736670147,
-      "filename": "lineage-22.1-2025011208-RELEASE-kiev.zip",
-      "id": "2b9695c6b3dba9b2b6ae33d8cfccca7bc0622a6f29965d5002ea77b784e33409",
+      "datetime": 1737789602,
+      "filename": "lineage-22.1-2025012507-RELEASE-kiev.zip",
+      "id": "69167d25c916132beff572f6051b07b041dc40866a8d8844a306fa4ee747e915",
       "romtype": "RELEASE",
-      "size": 1789011117,
-      "url": "https://github.com/Hackneyed-releases/kiev/releases/download/12012025/lineage-22.1-2025011208-RELEASE-kiev.zip",
+      "size": 1111474124,
+      "url": "https://github.com/Hackneyed-releases/kiev/releases/download/25012025/lineage-22.1-2025012507-RELEASE-kiev.zip",
       "version": "22.1"
     }
   ]
