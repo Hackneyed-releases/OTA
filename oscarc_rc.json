@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1744614675,
+      "filename": "lineage-22.2-2025041407-RELEASE-oscarc.zip",
+      "id": "1fb1c4b97d43e2f267e0d1af1bde190e20e854c0baa3d4605a80bc78aa4be5c2",
+      "romtype": "RELEASE",
+      "size": 1645835707,
+      "url": "https://github.com/Hackneyed-releases/oscarc/releases/download/14042025/lineage-22.2-2025041407-RELEASE-oscarc.zip",
+      "version": "22.2"
+    }
+  ]
+}
