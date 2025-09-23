@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1725828435,
-      "filename": "lineage-18.1-2024091620-karate.zip",
-      "id": "04a30a532c53395539f0c8da48139b9afc183a43f2ffe4e176308f5c1e381f3a",
-      "romtype": "UNOFFICIAL",
-      "size": 1741971324,
-      "url": "https://download.hackneyedota.workers.dev/0:/karate/lineage-18.1-2024091620-karate.zip.zip",
+      "datetime": 1758641424,
+      "filename": "lineage-18.1-2025092315-RELEASE-karate.zip",
+      "id": "70dfdd3d588232dc3b2b9a57525216d5a1add5e9ad78112d384926ea59414495",
+      "romtype": "RELEASE",
+      "size": 1163342673,
+      "url": "https://github.com/Hackneyed-releases/karate/releases/download/23092025/lineage-18.1-2025092315-RELEASE-karate.zip",
       "version": "18.1"
     }
   ]
