@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1758723367,
-      "filename": "lineage-18.1-2025092414-UNOFFICIAL-karatep.zip",
-      "id": "faa7fad007f7f2e3368c841412b1877294a3b343e13ca0a629e2911c39e890f5",
+      "datetime": 1760027619,
+      "filename": "lineage-18.1-2025100916-UNOFFICIAL-karatep.zip",
+      "id": "6a003ee5b3be85eb404a1fb84fa5ce5a8ce3c438ac318043ed870696aa2fe1d0",
       "romtype": "UNOFFICIAL",
-      "size": 724475927,
-      "url": "https://github.com/Hackneyed-releases/karatep/releases/download/24092025/lineage-18.1-2025092414-UNOFFICIAL-karatep.zip",
+      "size": 726323179,
+      "url": "https://github.com/Hackneyed-releases/karatep/releases/download/09102025/lineage-18.1-2025100916-UNOFFICIAL-karatep.zip",
       "version": "18.1"
     }
   ]
