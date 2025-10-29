@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1760466007,
-      "filename": "lineage-23.0-2025101418-RELEASE-larry.zip",
-      "id": "16bc82c2b6ea69d543072ef58596a77f85658df72e0b3d8035aa844d6a8356a0",
+      "datetime": 1761722886,
+      "filename": "lineage-23.0-2025102907-RELEASE-larry.zip",
+      "id": "046a4a540e77978d2c0b88310d168a2ff2526238921bd9bc96ba3ff19cd09b2d",
       "romtype": "RELEASE",
-      "size": 2444693869,
-      "url": "https://dl.hackneyed.site/larry/lineage/23/14102025/lineage-23.0-2025101418-RELEASE-larry.zip",
+      "size": 2444633922,
+      "url": "https://dl.hackneyed.site/larry/lineage/23/29102025/lineage-23.0-2025102907-RELEASE-larry.zip",
       "version": "23.0"
     }
   ]
